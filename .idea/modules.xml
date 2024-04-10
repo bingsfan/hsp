@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/code/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/code/chapter02/chapter02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter04/chapter04.iml" filepath="$PROJECT_DIR$/code/chapter04/chapter04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter06/chapter06.iml" filepath="$PROJECT_DIR$/code/chapter06/chapter06.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter07/chapter07.iml" filepath="$PROJECT_DIR$/code/chapter07/chapter07.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter08/chapter08.iml" filepath="$PROJECT_DIR$/code/chapter08/chapter08.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter09/chapter09.iml" filepath="$PROJECT_DIR$/code/chapter09/chapter09.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter10/chapter10.iml" filepath="$PROJECT_DIR$/code/chapter10/chapter10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter11/chapter11.iml" filepath="$PROJECT_DIR$/code/chapter11/chapter11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter12/chapter12.iml" filepath="$PROJECT_DIR$/code/chapter12/chapter12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter13/chapter13.iml" filepath="$PROJECT_DIR$/code/chapter13/chapter13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter14/chapter14.iml" filepath="$PROJECT_DIR$/code/chapter14/chapter14.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter15/chapter15.iml" filepath="$PROJECT_DIR$/code/chapter15/chapter15.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter16/chapter16.iml" filepath="$PROJECT_DIR$/code/chapter16/chapter16.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter17/chapter17.iml" filepath="$PROJECT_DIR$/code/chapter17/chapter17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/chapter18/chapter18.iml" filepath="$PROJECT_DIR$/code/chapter18/chapter18.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hsp.iml" filepath="$PROJECT_DIR$/.idea/hsp.iml" />
     </modules>
   </component>

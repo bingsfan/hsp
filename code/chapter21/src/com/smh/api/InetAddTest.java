@@ -17,7 +17,7 @@ public class InetAddTest {
         InetAddress localHost = InetAddress.getLocalHost();
         System.out.println(localHost);
 //        根据主机名或域名获取ip地址
-        InetAddress host2 = InetAddress.getByName("DESKTOP-B41DAK4");
+        InetAddress host2 = InetAddress.getByName("DESKTOP-DTRV936");
         System.out.println(host2);
         InetAddress host3 = InetAddress.getByName("www.baidu.com");
         System.out.println(host3);
